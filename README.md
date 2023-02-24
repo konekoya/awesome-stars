@@ -976,6 +976,7 @@
 
 ## Others 
 
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [konekoya/game-dev-links](https://github.com/konekoya/game-dev-links) - Resources for learning and developing games
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [a-know/Pixela](https://github.com/a-know/Pixela) - A service for generating GitHub-like graphs. Record and Track your habits or effort. All by API.
@@ -1250,6 +1251,7 @@
 
 ## Swift 
 
+- [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
 - [adamrushy/OpenAISwift](https://github.com/adamrushy/OpenAISwift) - This is a wrapper library around the ChatGPT and OpenAI HTTP API
 - [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
 - [cocoatoucher/Glide](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, with practical examples and tutorials
@@ -1393,6 +1395,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - MUI Toolpad: Low-code admin builder. Open-source and powered by MUI.
