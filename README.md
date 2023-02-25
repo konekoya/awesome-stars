@@ -1109,6 +1109,7 @@
 
 ## Python 
 
+- [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [pavdmyt/yaspin](https://github.com/pavdmyt/yaspin) - A lightweight terminal spinner for Python with safe pipes and redirects 🎁
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
