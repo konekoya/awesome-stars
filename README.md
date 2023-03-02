@@ -1107,6 +1107,8 @@
 
 ## Python 
 
+- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
+- [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [pavdmyt/yaspin](https://github.com/pavdmyt/yaspin) - A lightweight terminal spinner for Python with safe pipes and redirects 🎁
