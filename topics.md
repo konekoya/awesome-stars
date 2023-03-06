@@ -1496,7 +1496,7 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
-- [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Pure React Carousel Component
+- [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with easily customizable UI and behavior to fit your brand and site.
 - [alexkuz/react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control
 - [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -2871,7 +2871,7 @@
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [twreporter/twreporter-react](https://github.com/twreporter/twreporter-react) - twreporter site with nodejs
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-- [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Pure React Carousel Component
+- [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with easily customizable UI and behavior to fit your brand and site.
 - [alexkuz/react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control
 - [reactjs/react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
 - [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
@@ -2939,7 +2939,7 @@
 - [joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [garetmckinley/hedron](https://github.com/garetmckinley/hedron) - A no-frills flexbox grid system for React, powered by styled-components.
-- [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Pure React Carousel Component
+- [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with easily customizable UI and behavior to fit your brand and site.
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [kdchang/reactjs101](https://github.com/kdchang/reactjs101) - 從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 ReactJS 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。
 
