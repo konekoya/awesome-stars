@@ -274,6 +274,7 @@
 - [harshjv/github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [clio-lang/clio](https://github.com/clio-lang/clio) - Clio is a functional, parallel, distributed programming language.
 - [tnicola/cypress-parallel](https://github.com/tnicola/cypress-parallel) - Reduce up to 40% your Cypress suite execution time parallelizing the test run on the same machine.
@@ -974,7 +975,7 @@
 
 ## Others 
 
-- [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - A JavaScript playground that auto-evaluates as you type
+- [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [konekoya/game-dev-links](https://github.com/konekoya/game-dev-links) - Resources for learning and developing games
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
