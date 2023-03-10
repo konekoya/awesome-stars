@@ -1115,6 +1115,7 @@
 
 ## Python 
 
+- [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
