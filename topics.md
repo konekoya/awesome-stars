@@ -2004,6 +2004,8 @@
 
 ## others 
 
+- [konekoya/is-my-mbp-ready-for-sell](https://github.com/konekoya/is-my-mbp-ready-for-sell) - 
+- [konekoya/til](https://github.com/konekoya/til) - Today I Learned
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
