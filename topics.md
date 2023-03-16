@@ -2008,6 +2008,7 @@
 
 ## others 
 
+- [konekoya/jointjs-with-cra](https://github.com/konekoya/jointjs-with-cra) - 
 - [konekoya/is-my-mbp-ready-for-sale](https://github.com/konekoya/is-my-mbp-ready-for-sale) - 
 - [konekoya/til](https://github.com/konekoya/til) - Today I Learned
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
