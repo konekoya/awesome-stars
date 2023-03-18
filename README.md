@@ -253,6 +253,7 @@
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [SparkMonitor/varOne](https://github.com/SparkMonitor/varOne) - Apache Spark Web Monitor Tool, varOne
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - 
 
@@ -671,7 +672,6 @@
 - [webpack-contrib/webpack-hot-middleware](https://github.com/webpack-contrib/webpack-hot-middleware) - Webpack hot reloading you can attach to your own server
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [prettier/prettier-atom](https://github.com/prettier/prettier-atom) - An atom package for the prettier formatter.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide) - An open IDE for web and native mobile development, built on top of Atom
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
