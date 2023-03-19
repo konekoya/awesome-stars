@@ -746,7 +746,7 @@
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 
@@ -1436,7 +1436,7 @@
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Small avatar & profile picture component. Resize and crop uploaded images using a intuitive user interface.
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
@@ -2315,7 +2315,7 @@
 - [walmartlabs/react-ssr-optimization](https://github.com/walmartlabs/react-ssr-optimization) - React.js server-side rendering optimization with component memoization and templatization
 - [jscomplete/advanced-react](https://github.com/jscomplete/advanced-react) - For help, ask in #questions at slack.jscomplete.com http://slack.jscomplete.com/
 - [markdalgleish/static-site-generator-webpack-plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin) - Minimal, unopinionated static site generator powered by webpack
-- [facebook/flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
+- [facebookarchive/flux](https://github.com/facebookarchive/flux) - Application Architecture for Building User Interfaces
 - [facebookarchive/react-360](https://github.com/facebookarchive/react-360) - Create amazing 360 and VR content using React
 - [kriasoft/isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - CSS style loader for Webpack that is optimized for isomorphic (universal) web apps.
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
@@ -2821,7 +2821,7 @@
 - [chentsulin/sweetalert-react](https://github.com/chentsulin/sweetalert-react) - Declarative SweetAlert in React
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Small avatar & profile picture component. Resize and crop uploaded images using a intuitive user interface.
 - [tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) - Offical TinyMCE React component
@@ -3555,7 +3555,7 @@
 
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [ForbesLindesay/promisejs.org](https://github.com/ForbesLindesay/promisejs.org) - a promise website to document and promote
 
 ## windows 
