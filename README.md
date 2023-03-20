@@ -796,7 +796,7 @@
 - [sindresorhus/atom-editorconfig](https://github.com/sindresorhus/atom-editorconfig) - Helps developers maintain consistent coding styles between different editors
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [stoyan/craft](https://github.com/stoyan/craft) - Create React App From Template
 - [joemaddalone/ReactSublimeSnippets](https://github.com/joemaddalone/ReactSublimeSnippets) - Joe Maddalone's React Snippets
 - [twreporter/twreporter-react](https://github.com/twreporter/twreporter-react) - twreporter site with nodejs
