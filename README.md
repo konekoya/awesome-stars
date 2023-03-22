@@ -467,7 +467,6 @@
 - [withspectrum/react-app-rewire-styled-components](https://github.com/withspectrum/react-app-rewire-styled-components) - Add the styled-components Babel plugin to your create-react-app app via react-app-rewired
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [michaelwayman/node-sass-chokidar](https://github.com/michaelwayman/node-sass-chokidar) - A thin wrapper around node-sass to replicate the --watch using chokidar instead of Gaze
-- [sw-yx/brain](https://github.com/sw-yx/brain) - Swyx's second brain!
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 - [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js) - React: CSS in JS techniques comparison
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
@@ -1033,6 +1032,7 @@
 - [sdras/night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) - 🌌 NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉 LIGHT OWL: a daytime light theme
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [tuchk4/awesome-create-react-app](https://github.com/tuchk4/awesome-create-react-app) - Awesome list of Create React App articles / tutorials / videos and FAQ
+- [sw-yx/brain](https://github.com/sw-yx/brain) - Swyx's second brain!
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [coryhouse/ama](https://github.com/coryhouse/ama) - Ask me anything.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
