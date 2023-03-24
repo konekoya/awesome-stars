@@ -1069,7 +1069,6 @@
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
@@ -2026,6 +2025,7 @@
 
 ## others 
 
+- [dominikgorczyca/Pac-Man](https://github.com/dominikgorczyca/Pac-Man) - This is a remake of Pac-Man game.
 - [konekoya/weather-forecaster](https://github.com/konekoya/weather-forecaster) - A bot that sends weather forecast to LINE chat
 - [konekoya/jointjs-with-cra](https://github.com/konekoya/jointjs-with-cra) - 
 - [konekoya/is-my-mbp-ready-for-sale](https://github.com/konekoya/is-my-mbp-ready-for-sale) - 
@@ -2148,6 +2148,7 @@
 - [joemaddalone/react-svg-path-shapes](https://github.com/joemaddalone/react-svg-path-shapes) - merged with https://github.com/joemaddalone/react-svg-path
 - [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
 - [scinos/yarn-deduplicate](https://github.com/scinos/yarn-deduplicate) - Deduplication tool for yarn.lock files
+- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Legacy version of the Mattermost web app (now located as part of https://github.com/mattermost/mattermost-server)
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [zhaosiyang/axios-observable](https://github.com/zhaosiyang/axios-observable) - Use axios in a rxjs way. use Observable instead of Promise
@@ -2732,7 +2733,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) - :japanese_castle: Better ways to structure iOS apps
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
@@ -3395,7 +3396,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
