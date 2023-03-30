@@ -2039,6 +2039,7 @@
 
 ## others 
 
+- [kevin-powell/learn-grid-the-easy-way](https://github.com/kevin-powell/learn-grid-the-easy-way) - 
 - [dominikgorczyca/Pac-Man](https://github.com/dominikgorczyca/Pac-Man) - This is a remake of Pac-Man game.
 - [konekoya/weather-forecaster](https://github.com/konekoya/weather-forecaster) - A bot that sends weather forecast to LINE chat
 - [konekoya/jointjs-with-cra](https://github.com/konekoya/jointjs-with-cra) - 
