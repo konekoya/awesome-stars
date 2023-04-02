@@ -317,7 +317,6 @@
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [styled-icons/styled-icons](https://github.com/styled-icons/styled-icons) - 💅 Popular icon packs like Font Awesome, Material Design, and Octicons, available as React Styled Components
-- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [thorn0/organize-imports-cli](https://github.com/thorn0/organize-imports-cli) - VS Code's 'Organize imports' executable from command line
 - [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.
 - [bhovhannes/junit-report-merger](https://github.com/bhovhannes/junit-report-merger) - Merges multiple JUnit XML reports into one
@@ -1480,6 +1479,7 @@
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [cdes/react-headless-nested-menu](https://github.com/cdes/react-headless-nested-menu) - A useful headless component (hook) that gives you all the functions you need to create a multi-level menu using your own components!
 - [damikun/React-Toast](https://github.com/damikun/React-Toast) - Custom push notification (Toast) implementation under React + stayed by TailwindCSS.
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
