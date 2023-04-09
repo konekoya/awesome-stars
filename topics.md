@@ -50,6 +50,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -262,7 +263,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
-- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 covering React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more! ⚡️
+- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
 - [webpack-china/awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - [印记中文](https://docschina.org/) - webpack 优秀中文文章
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -699,6 +700,13 @@
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+
+## deno 
+
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## deployment 
 
@@ -1470,7 +1478,7 @@
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 covering React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more! ⚡️
+- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
@@ -1604,7 +1612,7 @@
 
 ## jquery 
 
-- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 covering React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more! ⚡️
+- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [thiagosf/skitter](https://github.com/thiagosf/skitter) - Skitter - Slideshow for anytime
 - [liabru/jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin
@@ -2877,7 +2885,7 @@
 - [frontend-collective/react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree) - Drag-and-drop sortable component for nested data and hierarchies
 - [ericgio/react-bootstrap-typeahead](https://github.com/ericgio/react-bootstrap-typeahead) - React typeahead with Bootstrap styling
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 covering React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more! ⚡️
+- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
 - [chentsulin/sweetalert-react](https://github.com/chentsulin/sweetalert-react) - Declarative SweetAlert in React
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
@@ -3012,7 +3020,7 @@
 - [JJSPython/parseltongue](https://github.com/JJSPython/parseltongue) - Painless data parsing.
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
-- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 covering React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more! ⚡️
+- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [nthspace/universiade](https://github.com/nthspace/universiade) - 2017 世大運賽程與購票整合網站
 - [jiwonbest/amazing-react-projects](https://github.com/jiwonbest/amazing-react-projects) - Collection of amazing open source React & React native projects
