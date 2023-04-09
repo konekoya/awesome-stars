@@ -1054,7 +1054,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [rachelandrew/cssgrid-ama](https://github.com/rachelandrew/cssgrid-ama) - Ask me anything about CSS Grid Layout
-- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 covering React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more! ⚡️
+- [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 - [benmvp/frontend-confs](https://github.com/benmvp/frontend-confs) - Frontend Conferences for Speaking
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
