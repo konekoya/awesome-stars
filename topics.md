@@ -1531,7 +1531,7 @@
 - [mariusschulz/egghead-async-await](https://github.com/mariusschulz/egghead-async-await) - Code for my "Asynchronous JavaScript with async/await" egghead.io course.
 - [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [sockjs/sockjs-node](https://github.com/sockjs/sockjs-node) - WebSocket emulation - Node.js server
-- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [react-ga/react-ga](https://github.com/react-ga/react-ga) - React Google Analytics Module
 - [router5/router5](https://github.com/router5/router5) - Flexible and powerful universal routing solution
 - [htmlhint/HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
@@ -3425,7 +3425,7 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [kentcdodds/testing-workshop](https://github.com/kentcdodds/testing-workshop) - A workshop for learning how to test JavaScript applications
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
-- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) - Jest cheat sheet
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
