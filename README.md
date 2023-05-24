@@ -417,7 +417,7 @@
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [inspect-js/node-deep-equal](https://github.com/inspect-js/node-deep-equal) - node's assert.deepEqual algorithm
 - [moroshko/react-autowhatever](https://github.com/moroshko/react-autowhatever) - Accessible rendering layer for Autosuggest and Autocomplete components
-- [dagrejs/dagre](https://github.com/dagrejs/dagre) - :no_entry: [DEPRECATED] - Directed graph layout for JavaScript
+- [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [testem/testem](https://github.com/testem/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
