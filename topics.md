@@ -2258,7 +2258,7 @@
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [dagrejs/dagre-d3](https://github.com/dagrejs/dagre-d3) - :no_entry: [DEPRECATED] - A D3-based renderer for Dagre
 - [BerkeleyTrue/warning](https://github.com/BerkeleyTrue/warning) - A mirror of Facebook's Warning
-- [dagrejs/dagre](https://github.com/dagrejs/dagre) - :no_entry: [DEPRECATED] - Directed graph layout for JavaScript
+- [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [testem/testem](https://github.com/testem/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun.
 - [kentcdodds/enzyme-sel](https://github.com/kentcdodds/enzyme-sel) - 
 - [sudodoki/copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard) - Copy stuff into clipboard from your browser using JS
