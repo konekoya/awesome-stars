@@ -2117,7 +2117,7 @@
 - [yasirkula/UnityNativeCamera](https://github.com/yasirkula/UnityNativeCamera) - A native Unity plugin to take pictures/record videos with device camera on Android & iOS
 - [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
 - [skiptests/astraea](https://github.com/skiptests/astraea) - 釋放kafka的無限潛能
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [evdmello/SideMenu](https://github.com/evdmello/SideMenu) - SideMenu using UIKit
 - [yoavlt/LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state
 - [hmlongco/Resolver](https://github.com/hmlongco/Resolver) - Swift Ultralight Dependency Injection / Service Locator framework
