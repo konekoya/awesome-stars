@@ -208,7 +208,6 @@
 
 ## HTML 
 
-- [zhong1016/software-salaries](https://github.com/zhong1016/software-salaries) - 台灣軟體業薪水資訊
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
 - [dominikgorczyca/Pac-Man](https://github.com/dominikgorczyca/Pac-Man) - This is a remake of Pac-Man game.
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
