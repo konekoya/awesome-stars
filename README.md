@@ -393,7 +393,7 @@
 - [sindresorhus/wait-for-localhost](https://github.com/sindresorhus/wait-for-localhost) - Wait for localhost to be ready
 - [sindresorhus/wait-for-localhost-cli](https://github.com/sindresorhus/wait-for-localhost-cli) - Wait for localhost to be ready from the command-line
 - [vkbansal/react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Project is no longer maintained
-- [facebook/fbjs](https://github.com/facebook/fbjs) - A collection of utility libraries used by other Facebook JS projects.
+- [facebook/fbjs](https://github.com/facebook/fbjs) - A collection of utility libraries used by other Meta JS projects.
 - [oliviertassinari/babel-plugin-transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes from the production build. :balloon:
 - [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
 - [bahmutov/as-a](https://github.com/bahmutov/as-a) - Runs a given command with additional environment settings for simple local development
