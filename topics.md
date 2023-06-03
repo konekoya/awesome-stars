@@ -1108,6 +1108,7 @@
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Archived web app of Mattermost. Moved to the monorepo: https://github.com/mattermost/mattermost
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
@@ -2202,7 +2203,6 @@
 - [joemaddalone/react-svg-path-shapes](https://github.com/joemaddalone/react-svg-path-shapes) - merged with https://github.com/joemaddalone/react-svg-path
 - [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
 - [scinos/yarn-deduplicate](https://github.com/scinos/yarn-deduplicate) - Deduplication tool for yarn.lock files
-- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Legacy version of the Mattermost web app (now located as part of https://github.com/mattermost/mattermost-server)
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [zhaosiyang/axios-observable](https://github.com/zhaosiyang/axios-observable) - Use axios in a rxjs way. use Observable instead of Promise
@@ -2256,7 +2256,7 @@
 - [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [mintty/mintty](https://github.com/mintty/mintty) - The Cygwin Terminal – terminal emulator for Cygwin, MSYS, and WSL
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-- [dagrejs/dagre-d3](https://github.com/dagrejs/dagre-d3) - :no_entry: [DEPRECATED] - A D3-based renderer for Dagre
+- [dagrejs/dagre-d3](https://github.com/dagrejs/dagre-d3) - A D3-based renderer for Dagre
 - [BerkeleyTrue/warning](https://github.com/BerkeleyTrue/warning) - A mirror of Facebook's Warning
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [testem/testem](https://github.com/testem/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun.
