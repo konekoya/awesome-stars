@@ -27,6 +27,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -683,7 +684,6 @@
 - [joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 - [conventional-changelog-archived-repos/conventional-changelog-angular](https://github.com/conventional-changelog-archived-repos/conventional-changelog-angular) - deprecated, instead use https://github.com/conventional-changelog/conventional-changelog monorepo
 - [minutemailer/react-popup](https://github.com/minutemailer/react-popup) - React popup component
-- [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [jasonkuhrt/react-popover](https://github.com/jasonkuhrt/react-popover) - A smart popover component for React
 - [zenorocha/codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
@@ -947,6 +947,11 @@
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [AppIntro/AppIntro](https://github.com/AppIntro/AppIntro) - Make a cool intro for your Android app.
+
+## MDX 
+
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+- [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 
 ## Markdown 
 
@@ -1427,7 +1432,6 @@
 
 ## TypeScript 
 
-- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
@@ -1556,7 +1560,6 @@
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React, with native TypeScript support.
-- [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
@@ -1608,6 +1611,7 @@
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
+- [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [react-bootstrap/react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [router5/router5](https://github.com/router5/router5) - Flexible and powerful universal routing solution
