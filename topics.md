@@ -76,6 +76,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
+- [gamedev](#gamedev)
 - [games](#games)
 - [git](#git)
 - [github](#github)
@@ -951,6 +952,11 @@
 - [cocoatoucher/Glide](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, with practical examples and tutorials
 
 ## game-engine 
+
+- [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
+- [cocoatoucher/Glide](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, with practical examples and tutorials
+
+## gamedev 
 
 - [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
 - [cocoatoucher/Glide](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, with practical examples and tutorials
