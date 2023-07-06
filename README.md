@@ -541,7 +541,6 @@
 - [kentcdodds/kcd-scripts](https://github.com/kentcdodds/kcd-scripts) - CLI toolbox for common scripts for my projects
 - [ztoben/assets-webpack-plugin](https://github.com/ztoben/assets-webpack-plugin) - Webpack plugin that emits a json file with assets paths
 - [jamiebuilds/unstated](https://github.com/jamiebuilds/unstated) - State so simple, it goes without saying
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [expressjs/serve-static](https://github.com/expressjs/serve-static) - Serve static files
 - [g0v/itaigi](https://github.com/g0v/itaigi) - 新台語·運動
 - [taion/react-router-scroll](https://github.com/taion/react-router-scroll) - React Router scroll management
@@ -950,6 +949,7 @@
 ## MDX 
 
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 
 ## Markdown 
 
