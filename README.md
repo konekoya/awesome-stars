@@ -262,7 +262,7 @@
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [SparkMonitor/varOne](https://github.com/SparkMonitor/varOne) - Apache Spark Web Monitor Tool, varOne
-- [sublimehq/Packages](https://github.com/sublimehq/Packages) - 
+- [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 
 ## JavaScript 
 
