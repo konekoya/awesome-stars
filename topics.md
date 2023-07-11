@@ -2606,7 +2606,6 @@
 - [eligrey/classList.js](https://github.com/eligrey/classList.js) - Cross-browser element.classList
 - [jgallen23/jquery-builder](https://github.com/jgallen23/jquery-builder) - Build custom versions of jQuery
 - [jeresig/jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) - jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination.
-- [sublimehq/Packages](https://github.com/sublimehq/Packages) - 
 - [digitalbiblesociety/browserbible-3](https://github.com/digitalbiblesociety/browserbible-3) - Bible software that runs in the browser
 - [openenglishbible/Open-English-Bible](https://github.com/openenglishbible/Open-English-Bible) - A CC0 licenced modern English translation of the Bible
 - [digitalbiblesociety/browserbible](https://github.com/digitalbiblesociety/browserbible) - Full-fledged Bible software that runs in mobile and desktop browsers. Intended to run off an SD chip in closed countries.
@@ -3241,6 +3240,7 @@
 - [sindresorhus/editorconfig-sublime](https://github.com/sindresorhus/editorconfig-sublime) - Sublime Text plugin for EditorConfig - Helps developers maintain consistent coding styles between different editors
 - [SublimeCodeIntel/SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text
 - [SublimeText/Spacegray](https://github.com/SublimeText/Spacegray) - A Hyperminimal UI Theme for Sublime Text
+- [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 
 ## svelte 
 
