@@ -1037,6 +1037,7 @@
 
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 
 ## google 
@@ -2523,7 +2524,7 @@
 - [joemaddalone/ReactSublimeSnippets](https://github.com/joemaddalone/ReactSublimeSnippets) - Joe Maddalone's React Snippets
 - [qimingweng/react-modal-dialog](https://github.com/qimingweng/react-modal-dialog) - A modal dialog for ReactJS
 - [atom-community/sync-settings](https://github.com/atom-community/sync-settings) - Synchronize all your settings and packages across atom instances
-- [Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) - Automatic polyfill service.
+- [JakeChampion/polyfill-service](https://github.com/JakeChampion/polyfill-service) - Automatic polyfill service.
 - [js-dxtools/webpack-validator](https://github.com/js-dxtools/webpack-validator) - Validates your webpack config with Joi
 - [kentcdodds/ama](https://github.com/kentcdodds/ama) - Ask me anything!
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
