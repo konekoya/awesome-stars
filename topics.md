@@ -2335,7 +2335,6 @@
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [rnosov/react-reveal](https://github.com/rnosov/react-reveal) - Easily add reveal on scroll animations to your React app
 - [pjchender/pronounce-correctly-for-taiwanese-programmer](https://github.com/pjchender/pronounce-correctly-for-taiwanese-programmer) - 台灣工程師容易發音錯誤的英文單字
-- [reactivestack/cookies](https://github.com/reactivestack/cookies) - Load and save cookies within your React application
 - [testdouble/testdouble.js](https://github.com/testdouble/testdouble.js) - A minimal test double library for TDD with JavaScript
 - [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - Lightweight CSS extraction plugin
 - [jaredhanson/passport-facebook](https://github.com/jaredhanson/passport-facebook) - Facebook authentication strategy for Passport and Node.js.
