@@ -416,7 +416,7 @@
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [dagrejs/dagre-d3](https://github.com/dagrejs/dagre-d3) - A D3-based renderer for Dagre
 - [BerkeleyTrue/warning](https://github.com/BerkeleyTrue/warning) - A mirror of Facebook's Warning
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [inspect-js/node-deep-equal](https://github.com/inspect-js/node-deep-equal) - node's assert.deepEqual algorithm
 - [moroshko/react-autowhatever](https://github.com/moroshko/react-autowhatever) - Accessible rendering layer for Autosuggest and Autocomplete components
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
