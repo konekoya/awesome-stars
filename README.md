@@ -868,7 +868,6 @@
 - [AllenFang/react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - A Bootstrap table built with React.js
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [abalone0204/Clairvoyance](https://github.com/abalone0204/Clairvoyance) - Make Taiwan a Better Place to Work
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
