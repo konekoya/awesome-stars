@@ -630,7 +630,7 @@
 - [kriasoft/isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - CSS style loader for Webpack that is optimized for isomorphic (universal) web apps.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [rtfeldman/seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [andrewngu/sound-redux](https://github.com/andrewngu/sound-redux) - A Soundcloud client built with React / Redux
 - [f2etw/seek-meetup](https://github.com/f2etw/seek-meetup) - 收集台灣各地的前端活動！好聚好善！
 - [avanslaars/egghead_react_redux_course](https://github.com/avanslaars/egghead_react_redux_course) - Source code for the Build A React App With Redux course on egghead.io
