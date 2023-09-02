@@ -266,6 +266,7 @@
 
 ## JavaScript 
 
+- [sadanandpai/frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges) - Collection of frontend challenges for learning and interviews
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [konekoya/weather-forecaster](https://github.com/konekoya/weather-forecaster) - A bot that sends weather forecast to LINE chat
@@ -1428,6 +1429,7 @@
 
 ## TypeScript 
 
+- [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) - Bootstrap components build with Typescript
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
