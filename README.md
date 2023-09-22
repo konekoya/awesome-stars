@@ -199,7 +199,7 @@
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 
 ## Groovy 
 
