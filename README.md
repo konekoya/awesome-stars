@@ -341,7 +341,6 @@
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
-- [joemaddalone/react-svg-path-shapes](https://github.com/joemaddalone/react-svg-path-shapes) - merged with https://github.com/joemaddalone/react-svg-path
 - [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
 - [developit/karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
@@ -467,7 +466,6 @@
 - [rickhanlonii/jest-silent-reporter](https://github.com/rickhanlonii/jest-silent-reporter) - A silent reporter for Jest
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
 - [GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
-- [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [styled-components/jest-styled-components](https://github.com/styled-components/jest-styled-components) - 🔧 💅 Jest utilities for Styled Components
 - [styled-components/vscode-styled-components](https://github.com/styled-components/vscode-styled-components) - Syntax highlighting for styled-components
 - [withspectrum/react-app-rewire-styled-components](https://github.com/withspectrum/react-app-rewire-styled-components) - Add the styled-components Babel plugin to your create-react-app app via react-app-rewired
@@ -801,7 +799,7 @@
 - [sindresorhus/atom-editorconfig](https://github.com/sindresorhus/atom-editorconfig) - Helps developers maintain consistent coding styles between different editors
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [stoyan/craft](https://github.com/stoyan/craft) - Create React App From Template
 - [joemaddalone/ReactSublimeSnippets](https://github.com/joemaddalone/ReactSublimeSnippets) - Joe Maddalone's React Snippets
 - [twreporter/twreporter-react](https://github.com/twreporter/twreporter-react) - twreporter site with nodejs
@@ -1428,6 +1426,7 @@
 
 ## TypeScript 
 
+- [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) - Bootstrap components build with Typescript
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
