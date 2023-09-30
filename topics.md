@@ -1142,6 +1142,7 @@
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [styled-components/vscode-styled-components](https://github.com/styled-components/vscode-styled-components) - Syntax highlighting for styled-components
+- [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [abdalla/react-hotjar](https://github.com/abdalla/react-hotjar) - Small component to implement Hotjar into your react application
