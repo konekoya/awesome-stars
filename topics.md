@@ -1300,7 +1300,7 @@
 - [cbpowell/MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame
 - [eggswift/ESTabBarController](https://github.com/eggswift/ESTabBarController) - :octocat: ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 4 & 5
-- [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
+- [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for UIKit and SwiftUI.
 - [WenchaoD/FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 - [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
 - [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
@@ -3317,7 +3317,7 @@
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 4 & 5
 - [raulriera/TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift
 - [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
-- [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
+- [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for UIKit and SwiftUI.
 - [WenchaoD/FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 - [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
 - [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
@@ -3403,6 +3403,7 @@
 
 - [adamrushy/OpenAISwift](https://github.com/adamrushy/OpenAISwift) - This is a wrapper library around the ChatGPT and OpenAI HTTP API
 - [aheze/Multiliner](https://github.com/aheze/Multiliner) - An Xcode source extension to expand lengthy lines.
+- [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for UIKit and SwiftUI.
 - [amirdew/CollectionViewPagingLayout](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but highly customizable UICollectionViewLayout for UICollectionView -- Simple SwiftUI views that let you make page-view effects.
 - [omaralbeik/Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
