@@ -1170,6 +1170,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
