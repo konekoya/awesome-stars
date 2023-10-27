@@ -127,7 +127,6 @@
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple and Minimal Line Icons
 - [planetoftheweb/CodeClinicJS](https://github.com/planetoftheweb/CodeClinicJS) - Repository for my tutorial course: Code Clinic: JavaScript course on LinkedIn Learning and Lynda.com.
-- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [2metres/typographic](https://github.com/2metres/typographic) - Easy SCSS or Stylus responsive typography with vertical rhythm, modular scale, font stacks, and more.
@@ -236,6 +235,7 @@
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 - [filamentgroup/grunticon](https://github.com/filamentgroup/grunticon) - A mystical CSS icon solution.
 - [sdras/frontendmasters-svganimation](https://github.com/sdras/frontendmasters-svganimation) - Frontend Masters- Advanced SVG Animation Course
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [rse/es6-features](https://github.com/rse/es6-features) - ECMAScript 6: Feature Overview & Comparison
 - [compat-table/compat-table](https://github.com/compat-table/compat-table) - ECMAScript compatibility tables
 - [estelle/CSS-Workshop](https://github.com/estelle/CSS-Workshop) - 6 hours workshop covering almost everything in CSS2 and CSS3
@@ -493,7 +493,6 @@
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
 - [CodementorIO/nextjs-redux-starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js + Redux + styled-components + Express = 😇
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [kentcdodds/react-testing-library-course](https://github.com/kentcdodds/react-testing-library-course) - Test React Components with Jest and React Testing Library on TestingJavaScript.com
 - [kenperkins/winston-papertrail](https://github.com/kenperkins/winston-papertrail) - Papertrail transport for Winston
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
@@ -557,7 +556,7 @@
 - [bclinkinbeard/egghead-getting-started-with-express](https://github.com/bclinkinbeard/egghead-getting-started-with-express) - Code examples from Getting Started with Express on egghead.io
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu) - :hamburger: An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations
 - [adriantoine/enzyme-to-json](https://github.com/adriantoine/enzyme-to-json) - Snapshot test your Enzyme wrappers
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [typicode/react-fake-props](https://github.com/typicode/react-fake-props) - 🔮 Magically generate fake props for your React tests
 - [clauderic/react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - ✨ Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more.
 - [frontend-collective/react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree) - Drag-and-drop sortable component for nested data and hierarchies
@@ -1563,6 +1562,7 @@
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
