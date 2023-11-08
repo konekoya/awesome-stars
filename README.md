@@ -267,6 +267,7 @@
 
 ## JavaScript 
 
+- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
 - [sadanandpai/frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges) - Collection of frontend challenges for learning and interviews
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
