@@ -901,7 +901,7 @@
 - [digitalbiblesociety/browserbible](https://github.com/digitalbiblesociety/browserbible) - Full-fledged Bible software that runs in mobile and desktop browsers. Intended to run off an SD chip in closed countries.
 - [MoOx/postcss-cssnext](https://github.com/MoOx/postcss-cssnext) - `postcss-cssnext` has been deprecated in favor of `postcss-preset-env`.
 - [LeaVerou/bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript
-- [maxogden/art-of-node](https://github.com/maxogden/art-of-node) - :snowflake: a short introduction to node.js
+- [max-mapper/art-of-node](https://github.com/max-mapper/art-of-node) - :snowflake: a short introduction to node.js
 - [workshopper/how-to-npm](https://github.com/workshopper/how-to-npm) - A module to teach you how to module.
 - [CSSLint/csslint](https://github.com/CSSLint/csslint) - Automated linting of Cascading Stylesheets
 - [floatdrop/gulp-plumber](https://github.com/floatdrop/gulp-plumber) - Fixing Node pipes
@@ -1431,6 +1431,8 @@
 
 ## TypeScript 
 
+- [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+- [yiminghe/async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [fjc0k/vscode-generate-index](https://github.com/fjc0k/vscode-generate-index) - A VSCode extension for generating file indexes.
