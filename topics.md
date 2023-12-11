@@ -150,6 +150,7 @@
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [programming](#programming)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -2757,6 +2758,11 @@
 ## powershell 
 
 - [platformio/platformio-atom-ide-terminal](https://github.com/platformio/platformio-atom-ide-terminal) - A terminal package for Atom, complete with themes, API and more for PlatformIO IDE
+
+## privacy 
+
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## programming 
 
