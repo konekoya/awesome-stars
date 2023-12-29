@@ -1542,7 +1542,7 @@
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [DSchau/blog](https://github.com/DSchau/blog) - Code for my personal blog built with Gatsby
+- [DSchau/blog](https://github.com/DSchau/blog) - Code for my old (last updated 2020) blog built with Gatsby
 - [algolia/algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript) - ⚡️ A fully-featured and blazing-fast JavaScript API client to interact with Algolia.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [reduxjs/redux-mock-store](https://github.com/reduxjs/redux-mock-store) - A mock store for testing Redux async action creators and middleware.
@@ -1857,7 +1857,7 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
-- [DSchau/blog](https://github.com/DSchau/blog) - Code for my personal blog built with Gatsby
+- [DSchau/blog](https://github.com/DSchau/blog) - Code for my old (last updated 2020) blog built with Gatsby
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
@@ -1984,7 +1984,7 @@
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [liady/webpack-node-externals](https://github.com/liady/webpack-node-externals) - Easily exclude node modules in Webpack
 - [UruIT/react-seed](https://github.com/UruIT/react-seed) - UruIT's react seed project
-- [DSchau/blog](https://github.com/DSchau/blog) - Code for my personal blog built with Gatsby
+- [DSchau/blog](https://github.com/DSchau/blog) - Code for my old (last updated 2020) blog built with Gatsby
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [getsentry/raven-node](https://github.com/getsentry/raven-node) - A standalone (Node.js) client for Sentry
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
@@ -2979,7 +2979,7 @@
 - [MCS-Lite/mcs-lite](https://github.com/MCS-Lite/mcs-lite) - 🎛  MCS Lite Common UI and Websites.
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [UruIT/react-seed](https://github.com/UruIT/react-seed) - UruIT's react seed project
-- [DSchau/blog](https://github.com/DSchau/blog) - Code for my personal blog built with Gatsby
+- [DSchau/blog](https://github.com/DSchau/blog) - Code for my old (last updated 2020) blog built with Gatsby
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu) - :hamburger: An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations
 - [adriantoine/enzyme-to-json](https://github.com/adriantoine/enzyme-to-json) - Snapshot test your Enzyme wrappers
 - [typicode/react-fake-props](https://github.com/typicode/react-fake-props) - 🔮 Magically generate fake props for your React tests
