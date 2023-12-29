@@ -108,6 +108,7 @@
 - [sass/libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -264,7 +265,6 @@
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [SparkMonitor/varOne](https://github.com/SparkMonitor/varOne) - Apache Spark Web Monitor Tool, varOne
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 
@@ -558,7 +558,7 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [UruIT/react-seed](https://github.com/UruIT/react-seed) - UruIT's react seed project
 - [jefflau/jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) - Jest mock for fetch
-- [DSchau/blog](https://github.com/DSchau/blog) - Code for my personal blog built with Gatsby
+- [DSchau/blog](https://github.com/DSchau/blog) - Code for my old (last updated 2020) blog built with Gatsby
 - [RobbieTheWagner/hyper-adventure-time](https://github.com/RobbieTheWagner/hyper-adventure-time) - A hyperterm port of the Adventure Time theme
 - [bclinkinbeard/egghead-getting-started-with-express](https://github.com/bclinkinbeard/egghead-getting-started-with-express) - Code examples from Getting Started with Express on egghead.io
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu) - :hamburger: An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations
