@@ -2298,7 +2298,7 @@
 - [bumbu/svg-pan-zoom](https://github.com/bumbu/svg-pan-zoom) - JavaScript library that enables panning and zooming of an SVG in an HTML document, with mouse events or custom JavaScript hooks
 - [glinscott/Garbochess-JS](https://github.com/glinscott/Garbochess-JS) - A strong javascript chess engine using WebWorkers
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
-- [gregnb/mui-datatables](https://github.com/gregnb/mui-datatables) - Datatables for React using Material-UI - https://www.material-ui-datatables.com
+- [gregnb/mui-datatables](https://github.com/gregnb/mui-datatables) - Datatables for React using Material-UI
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [kitze/react-hanger](https://github.com/kitze/react-hanger) - A collection of useful React hooks
 - [nikgraf/react-hooks](https://github.com/nikgraf/react-hooks) - Collection of React Hooks
