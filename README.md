@@ -388,7 +388,7 @@
 - [danilowoz/create-content-loader](https://github.com/danilowoz/create-content-loader) - ✏️ Tool to create your own react-content-loader easily.
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [FGRibreau/node-request-retry](https://github.com/FGRibreau/node-request-retry) - :guardsman: Wrap NodeJS request module to retry http requests in case of errors
-- [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick
+- [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
@@ -960,7 +960,7 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Nunjucks 
