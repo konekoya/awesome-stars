@@ -203,6 +203,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -3761,6 +3762,15 @@
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
+
+## web-development 
+
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 
 ## webapp 
 
