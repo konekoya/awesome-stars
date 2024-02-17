@@ -2638,7 +2638,7 @@
 - [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [gaearon/ama](https://github.com/gaearon/ama) - Ask me anything!
-- [ljharb/tape](https://github.com/ljharb/tape) - tap-producing test harness for node and browsers
+- [tape-testing/tape](https://github.com/tape-testing/tape) - tap-producing test harness for node and browsers
 - [corysimmons/postcss-ant](https://github.com/corysimmons/postcss-ant) - Size-getting function masquerading as a grid system.
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
 - [d3/d3-queue](https://github.com/d3/d3-queue) - Evaluate asynchronous tasks with configurable concurrency.
