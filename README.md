@@ -277,7 +277,7 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Multi-Currency | Node Js React AntD MERN
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [sadanandpai/frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges) - Collection of frontend challenges for learning and interviews
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
@@ -1202,7 +1202,6 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [sindresorhus/editorconfig-sublime](https://github.com/sindresorhus/editorconfig-sublime) - Sublime Text plugin for EditorConfig - Helps developers maintain consistent coding styles between different editors
 - [sindresorhus/sublime-autoprefixer](https://github.com/sindresorhus/sublime-autoprefixer) - Sublime plugin to prefix your CSS
 - [SublimeCodeIntel/SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text
@@ -1281,6 +1280,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
