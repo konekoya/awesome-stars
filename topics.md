@@ -2629,7 +2629,7 @@
 - [joemaddalone/ReactSublimeSnippets](https://github.com/joemaddalone/ReactSublimeSnippets) - Joe Maddalone's React Snippets
 - [qimingweng/react-modal-dialog](https://github.com/qimingweng/react-modal-dialog) - A modal dialog for ReactJS
 - [atom-community/sync-settings](https://github.com/atom-community/sync-settings) - Synchronize all your settings and packages across atom instances
-- [JakeChampion/polyfill-service](https://github.com/JakeChampion/polyfill-service) - Automatic polyfill service.
+- [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [js-dxtools/webpack-validator](https://github.com/js-dxtools/webpack-validator) - Validates your webpack config with Joi
 - [kentcdodds/ama](https://github.com/kentcdodds/ama) - Ask me anything!
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
