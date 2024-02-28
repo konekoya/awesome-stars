@@ -2195,7 +2195,7 @@
 - [yiminghe/async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [fjc0k/vscode-generate-index](https://github.com/fjc0k/vscode-generate-index) - A VSCode extension for generating file indexes.
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Multi-Currency | Node Js React AntD MERN
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Accounting Software Multi-Currency | Node Js React
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [kevin-powell/learn-grid-the-easy-way](https://github.com/kevin-powell/learn-grid-the-easy-way) - 
@@ -2549,7 +2549,7 @@
 - [mikenicholson/passport-jwt](https://github.com/mikenicholson/passport-jwt) - Passport authentication using JSON Web Tokens
 - [hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple) - JWT(JSON Web Token) encode and decode module for node.js
 - [react-component/calendar](https://github.com/react-component/calendar) - React Calendar
-- [shaneGirish/bcrypt-nodejs](https://github.com/shaneGirish/bcrypt-nodejs) - Native implementation of bcrypt for NodeJS
+- [shaneMangudi/bcrypt-nodejs](https://github.com/shaneMangudi/bcrypt-nodejs) - Native implementation of bcrypt for NodeJS
 - [zeroshine/ComicsScroller](https://github.com/zeroshine/ComicsScroller) - It is a chrome extension project giving you a better reading experience on china comics websites
 - [acdlite/recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
 - [atom/tree-view](https://github.com/atom/tree-view) - 🌳 Explore and open project files in Atom
