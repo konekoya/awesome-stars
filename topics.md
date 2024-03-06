@@ -130,6 +130,7 @@
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
+- [mongoose](#mongoose)
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
@@ -1126,6 +1127,7 @@
 
 ## hacktoberfest 
 
+- [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
@@ -1842,6 +1844,7 @@
 
 ## macos 
 
+- [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [LouisBrunner/valgrind-macos](https://github.com/LouisBrunner/valgrind-macos) - A valgrind mirror with latest macOS support
@@ -1939,6 +1942,10 @@
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
+
+## mongoose 
+
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Accounting Software Multi-Currency | Node Js React
 
 ## monitoring 
 
@@ -2198,7 +2205,6 @@
 - [yiminghe/async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [fjc0k/vscode-generate-index](https://github.com/fjc0k/vscode-generate-index) - A VSCode extension for generating file indexes.
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Accounting Software Multi-Currency | Node Js React
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [kevin-powell/learn-grid-the-easy-way](https://github.com/kevin-powell/learn-grid-the-easy-way) - 
@@ -3399,6 +3405,7 @@
 
 ## swift 
 
+- [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [KennethTsang/GrowingTextView](https://github.com/KennethTsang/GrowingTextView) - An UITextView in Swift. Support auto growing, placeholder and length limit.
 - [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
 - [adamrushy/OpenAISwift](https://github.com/adamrushy/OpenAISwift) - This is a wrapper library around the ChatGPT and OpenAI HTTP API
@@ -3515,6 +3522,7 @@
 
 ## swiftui 
 
+- [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [adamrushy/OpenAISwift](https://github.com/adamrushy/OpenAISwift) - This is a wrapper library around the ChatGPT and OpenAI HTTP API
 - [aheze/Multiliner](https://github.com/aheze/Multiliner) - An Xcode source extension to expand lengthy lines.
 - [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for UIKit and SwiftUI.
@@ -3860,6 +3868,7 @@
 
 ## xcode 
 
+- [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [DerLobi/XcoatOfPaint](https://github.com/DerLobi/XcoatOfPaint) - Replace your Xcode icon with colorful variants
 - [ivanvorobei/SPIndicator](https://github.com/ivanvorobei/SPIndicator) - Floating indicator, mimicrate to indicator which appear when silent mode switched. Can be present from top and bottom. Interactive with gesters.
 - [ruiaureliano/X-SwiftFormat](https://github.com/ruiaureliano/X-SwiftFormat) - X-SwiftFormat extension for Xcode
