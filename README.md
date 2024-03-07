@@ -268,6 +268,7 @@
 
 ## JavaScript 
 
+- [muratkeremozcan/cypress-react-component-test-examples](https://github.com/muratkeremozcan/cypress-react-component-test-examples) - Over 365 Cypress component testing examples with React
 - [sindresorhus/spdx-license-list](https://github.com/sindresorhus/spdx-license-list) - List of SPDX licenses
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
