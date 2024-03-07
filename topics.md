@@ -2198,6 +2198,7 @@
 
 ## others 
 
+- [muratkeremozcan/cypress-react-component-test-examples](https://github.com/muratkeremozcan/cypress-react-component-test-examples) - Over 365 Cypress component testing examples with React
 - [harvester/dashboard](https://github.com/harvester/dashboard) - Harvester UI
 - [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
