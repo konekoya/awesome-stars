@@ -1502,7 +1502,7 @@
 - [ankeetmaini/react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) - An awesome Infinite Scroll component in react.
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [radix-ui/design-system](https://github.com/radix-ui/design-system) - An extensive design system for building high-quality websites and web apps. Maintained and used by @WorkOS.
+- [radix-ui/design-system](https://github.com/radix-ui/design-system) - Design system that was used by @modulz. It’s now archived and superceded by Radix Themes. (See https://github.com/radix-ui/themes)
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [cdes/react-headless-nested-menu](https://github.com/cdes/react-headless-nested-menu) - A useful headless component (hook) that gives you all the functions you need to create a multi-level menu using your own components!
