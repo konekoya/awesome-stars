@@ -1195,6 +1195,7 @@
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 - [styled-components/vscode-styled-components](https://github.com/styled-components/vscode-styled-components) - Syntax highlighting for styled-components
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
