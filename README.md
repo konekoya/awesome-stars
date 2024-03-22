@@ -125,7 +125,6 @@
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [HubSpot/vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style. #hubspot-open-source
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple and Minimal Line Icons
@@ -225,7 +224,6 @@
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
 - [cypress-io/cypress-example-kitchensink](https://github.com/cypress-io/cypress-example-kitchensink) - This is an example app used to showcase Cypress.io testing.
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [kentcdodds/advanced-react-patterns-v1](https://github.com/kentcdodds/advanced-react-patterns-v1) - The course material for my advanced react patterns course on Egghead.io
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
@@ -564,6 +562,7 @@
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu) - :hamburger: An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations
 - [adriantoine/enzyme-to-json](https://github.com/adriantoine/enzyme-to-json) - Snapshot test your Enzyme wrappers
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [typicode/react-fake-props](https://github.com/typicode/react-fake-props) - 🔮 Magically generate fake props for your React tests
 - [clauderic/react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - ✨ Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more.
 - [frontend-collective/react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree) - Drag-and-drop sortable component for nested data and hierarchies
@@ -1248,6 +1247,7 @@
 ## SCSS 
 
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [foundation/motion-ui](https://github.com/foundation/motion-ui) - 💎 The powerful Sass library for creating CSS transitions and animations
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
