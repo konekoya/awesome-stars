@@ -562,7 +562,6 @@
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu) - :hamburger: An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations
 - [adriantoine/enzyme-to-json](https://github.com/adriantoine/enzyme-to-json) - Snapshot test your Enzyme wrappers
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [typicode/react-fake-props](https://github.com/typicode/react-fake-props) - 🔮 Magically generate fake props for your React tests
 - [clauderic/react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - ✨ Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more.
 - [frontend-collective/react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree) - Drag-and-drop sortable component for nested data and hierarchies
@@ -1604,6 +1603,7 @@
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [algolia/algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript) - ⚡️ A fully-featured and blazing-fast JavaScript API client to interact with Algolia.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [ericgio/react-bootstrap-typeahead](https://github.com/ericgio/react-bootstrap-typeahead) - React typeahead with Bootstrap styling
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
