@@ -3242,7 +3242,7 @@
 - [twreporter/twreporter-react](https://github.com/twreporter/twreporter-react) - twreporter site with nodejs
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 - [kdchang/reactjs101](https://github.com/kdchang/reactjs101) - 從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 ReactJS 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。
-- [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 
 ## rest-api 
 
