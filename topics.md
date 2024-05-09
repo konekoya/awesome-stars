@@ -117,6 +117,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [localization](#localization)
 - [low-code](#low-code)
 - [lua](#lua)
@@ -1830,6 +1831,10 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
+## llm 
+
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+
 ## localization 
 
 - [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
@@ -2222,6 +2227,7 @@
 
 ## others 
 
+- [aszx87410/blog](https://github.com/aszx87410/blog) - A tech blog about Front-end, JavaScript and Security
 - [t3-oss/t3-env](https://github.com/t3-oss/t3-env) - 
 - [muratkeremozcan/cypress-react-component-test-examples](https://github.com/muratkeremozcan/cypress-react-component-test-examples) - Over 365 Cypress component testing examples with React
 - [harvester/dashboard](https://github.com/harvester/dashboard) - Harvester UI
@@ -2311,7 +2317,7 @@
 - [openid/AppAuth-iOS](https://github.com/openid/AppAuth-iOS) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [xcconfigs/xcconfigs](https://github.com/xcconfigs/xcconfigs) - Common Xcode configuration files/settings.
 - [pointfreeco/swift-validated](https://github.com/pointfreeco/swift-validated) - 🛂 A result type that accumulates multiple errors.
-- [twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
+- [twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for Hacking with iOS.
 - [CocoaPods/Xcodeproj](https://github.com/CocoaPods/Xcodeproj) - Create and modify Xcode projects from Ruby.
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [apple/swift-protobuf](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift
