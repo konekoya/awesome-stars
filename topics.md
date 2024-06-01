@@ -688,7 +688,7 @@
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
-- [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+- [matype/stylefmt](https://github.com/matype/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [peterramsing/lost](https://github.com/peterramsing/lost) - LostGrid is a powerful grid system built in PostCSS that works with any preprocessor and even vanilla CSS.
 - [macbre/analyze-css](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer
@@ -3317,7 +3317,7 @@
 - [UruIT/react-seed](https://github.com/UruIT/react-seed) - UruIT's react seed project
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
-- [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+- [matype/stylefmt](https://github.com/matype/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 - [macbre/analyze-css](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
