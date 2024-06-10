@@ -1621,7 +1621,7 @@
 - [reactGo/reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [seeden/react-facebook](https://github.com/seeden/react-facebook) - Facebook components like a Login button, Like, Share, Chat, Comments, Page or Embedded Post
+- [goodmodule/react-facebook](https://github.com/goodmodule/react-facebook) - Facebook components like a Login button, Like, Share, Chat, Comments, Page or Embedded Post
 - [expressjs/session](https://github.com/expressjs/session) - Simple session middleware for Express
 - [jiwonbest/amazing-react-projects](https://github.com/jiwonbest/amazing-react-projects) - Collection of amazing open source React & React native projects
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
@@ -3093,7 +3093,7 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [MoonHighway/learning-react](https://github.com/MoonHighway/learning-react) - The code samples for Learning React by Alex Banks and Eve Porcello, published by O'Reilly Media
 - [bertho-zero/react-redux-universal-hot-example](https://github.com/bertho-zero/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using react, redux, express and feathers
-- [seeden/react-facebook](https://github.com/seeden/react-facebook) - Facebook components like a Login button, Like, Share, Chat, Comments, Page or Embedded Post
+- [goodmodule/react-facebook](https://github.com/goodmodule/react-facebook) - Facebook components like a Login button, Like, Share, Chat, Comments, Page or Embedded Post
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [mjrussell/redux-auth-wrapper](https://github.com/mjrussell/redux-auth-wrapper) - A React Higher Order Component (HOC) for handling Authentication and Authorization with Routing and Redux
 - [react-bootstrap-table/react-bootstrap-table2](https://github.com/react-bootstrap-table/react-bootstrap-table2) - Next Generation of react-bootstrap-table
