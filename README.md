@@ -525,7 +525,7 @@
 - [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [testdouble/testdouble.js](https://github.com/testdouble/testdouble.js) - A minimal test double library for TDD with JavaScript
-- [seeden/react-google-publisher-tag](https://github.com/seeden/react-google-publisher-tag) - Adsense via Google publisher tag for universal applications
+- [goodmodule/react-google-publisher-tag](https://github.com/goodmodule/react-google-publisher-tag) - Adsense via Google publisher tag for universal applications
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - Lightweight CSS extraction plugin
 - [jaredhanson/passport-facebook](https://github.com/jaredhanson/passport-facebook) - Facebook authentication strategy for Passport and Node.js.
