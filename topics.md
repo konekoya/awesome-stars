@@ -2288,7 +2288,7 @@
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
 - [yasirkula/UnityNativeCamera](https://github.com/yasirkula/UnityNativeCamera) - A native Unity plugin to take pictures/record videos with device camera on Android & iOS
 - [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
-- [skiptests/astraea](https://github.com/skiptests/astraea) - 釋放kafka的無限潛能
+- [opensource4you/astraea](https://github.com/opensource4you/astraea) - 釋放kafka的無限潛能
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [evdmello/SideMenu](https://github.com/evdmello/SideMenu) - SideMenu using UIKit
 - [yoavlt/LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state
@@ -2338,7 +2338,7 @@
 - [apple/swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
 - [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
 - [ChartsOrg/Charts](https://github.com/ChartsOrg/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [john-smilga/javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects) - 
