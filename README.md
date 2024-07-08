@@ -439,7 +439,6 @@
 - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
 - [nodejs/node-chakracore](https://github.com/nodejs/node-chakracore) - Node.js on ChakraCore :sparkles::turtle::rocket::sparkles:
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
-- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) - Copy-to-clipboard React component
 - [FortAwesome/react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome React component
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -1590,6 +1589,7 @@
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [lovasoa/react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react
 - [express-validator/express-validator](https://github.com/express-validator/express-validator) - An express.js middleware for validator.js.
 - [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
