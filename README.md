@@ -534,7 +534,7 @@
 - [octref/polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 - [StephenGrider/FullstackReactCode](https://github.com/StephenGrider/FullstackReactCode) - Companion repo to https://www.udemy.com/node-with-react-fullstack-web-development
 - [jamiebuilds/create-react-context](https://github.com/jamiebuilds/create-react-context) - Polyfill for the proposed React context API
-- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Unmaintained] Renderless Containers
+- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: Renderless Containers
 - [diegohaz/awesome-react-context](https://github.com/diegohaz/awesome-react-context) - 😎 A curated list of stuff related to the new React Context API
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
