@@ -328,7 +328,7 @@
 - [bondz/react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable react components for epic-spinners
 - [jakezatecky/react-checkbox-tree](https://github.com/jakezatecky/react-checkbox-tree) - A simple and elegant checkbox tree for React.
 - [praveenjuge/kutty](https://github.com/praveenjuge/kutty) - Kutty is a tailwind plugin for building web applications. It has a set of accessible and reusable components that are commonly used in web applications.
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [styled-icons/styled-icons](https://github.com/styled-icons/styled-icons) - 💅 Popular icon packs like Font Awesome, Material Design, and Octicons, available as React Styled Components
