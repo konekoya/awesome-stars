@@ -686,7 +686,7 @@
 - [minutemailer/react-popup](https://github.com/minutemailer/react-popup) - React popup component
 - [jasonkuhrt/react-popover](https://github.com/jasonkuhrt/react-popover) - A smart popover component for React
 - [zenorocha/codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
-- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [kuanhsuh/netflix-clonev2](https://github.com/kuanhsuh/netflix-clonev2) - 
 - [paypal/nemo-core](https://github.com/paypal/nemo-core) - Selenium-webdriver based automation in node.js
 - [threepointone/glamor](https://github.com/threepointone/glamor) - inline css for react et al
