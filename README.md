@@ -635,7 +635,7 @@
 - [f2etw/seek-meetup](https://github.com/f2etw/seek-meetup) - 收集台灣各地的前端活動！好聚好善！
 - [avanslaars/egghead_react_redux_course](https://github.com/avanslaars/egghead_react_redux_course) - Source code for the Build A React App With Redux course on egghead.io
 - [enzymejs/enzyme-matchers](https://github.com/enzymejs/enzyme-matchers) - Jasmine/Jest assertions for enzyme
-- [summernote/react-summernote](https://github.com/summernote/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for react
+- [hackerwins/react-summernote](https://github.com/hackerwins/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for react
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [sstur/react-rte](https://github.com/sstur/react-rte) - Pure React rich text WYSIWYG editor based on draft-js.
 - [corysimmons/grid.js](https://github.com/corysimmons/grid.js) - PoC | Simple fractional JS grid prototype. Makes adding fractions to markup easy.
