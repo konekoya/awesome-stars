@@ -459,7 +459,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, s
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
@@ -556,7 +556,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
@@ -1517,7 +1517,7 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
@@ -2139,7 +2139,7 @@
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
@@ -3430,7 +3430,7 @@
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [bahmutov/as-a](https://github.com/bahmutov/as-a) - Runs a given command with additional environment settings for simple local development
