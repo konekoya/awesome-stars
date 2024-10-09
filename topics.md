@@ -1198,6 +1198,7 @@
 - [catppuccin/iterm](https://github.com/catppuccin/iterm) - 🍭 Soothing pastel theme for iTerm2
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
+- [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
 - [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
@@ -2336,7 +2337,6 @@
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
 - [yasirkula/UnityNativeCamera](https://github.com/yasirkula/UnityNativeCamera) - A native Unity plugin to take pictures/record videos with device camera on Android & iOS
-- [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
 - [opensource4you/astraea](https://github.com/opensource4you/astraea) - 釋放kafka的無限潛能
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [evdmello/SideMenu](https://github.com/evdmello/SideMenu) - SideMenu using UIKit
