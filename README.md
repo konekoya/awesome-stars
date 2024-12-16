@@ -513,7 +513,7 @@
 - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 - [redux-utilities/redux-actions](https://github.com/redux-utilities/redux-actions) - Flux Standard Action utilities for Redux.
 - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
-- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
+- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [testing-library/cypress-testing-library](https://github.com/testing-library/cypress-testing-library) - 🐅 Simple and complete custom Cypress commands and utilities that encourage good testing practices.
 - [testing-library/dom-testing-library](https://github.com/testing-library/dom-testing-library) - 🐙 Simple and complete DOM testing utilities that encourage good testing practices.
 - [kentcdodds/advanced-react-patterns-v2](https://github.com/kentcdodds/advanced-react-patterns-v2) - Created with CodeSandbox
