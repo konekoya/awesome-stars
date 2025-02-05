@@ -343,7 +343,6 @@
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [mashpie/i18n-node](https://github.com/mashpie/i18n-node) - Lightweight simple translation module for node.js / express.js with dynamic json storage. Uses common __('...') syntax in app and templates.
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
-- [archfz/cypress-terminal-report](https://github.com/archfz/cypress-terminal-report) - Plugin for cypress. Logs to terminal and files, mimicking cypress UI.
 - [funbox/harold](https://github.com/funbox/harold) - Compares frontend project bundles
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
@@ -1530,6 +1529,7 @@
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
+- [archfz/cypress-terminal-report](https://github.com/archfz/cypress-terminal-report) - Plugin for cypress. Logs to terminal and files, mimicking cypress UI.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
