@@ -502,7 +502,6 @@
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
 - [CodementorIO/nextjs-redux-starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js + Redux + styled-components + Express = 😇
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [kentcdodds/react-testing-library-course](https://github.com/kentcdodds/react-testing-library-course) - Test React Components with Jest and React Testing Library on TestingJavaScript.com
 - [kenperkins/winston-papertrail](https://github.com/kenperkins/winston-papertrail) - Papertrail transport for Winston
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
@@ -1616,6 +1615,7 @@
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
