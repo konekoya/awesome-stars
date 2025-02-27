@@ -1070,7 +1070,7 @@
 - [webpack-china/awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - [印记中文](https://docschina.org/) - webpack 优秀中文文章
 - [coryhouse/speaker-starter-kit](https://github.com/coryhouse/speaker-starter-kit) - Resources for aspiring speakers
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
-- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
+- [material-theme/material-theme-support](https://github.com/material-theme/material-theme-support) - Fanny Theme, the new most epic theme for Visual Studio Code
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 - [uidotdev/react-course-curriculum](https://github.com/uidotdev/react-course-curriculum) - Curriculum for ui.dev's React course.
