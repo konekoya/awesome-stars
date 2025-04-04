@@ -243,7 +243,7 @@
 
 ## ai 
 
-- [baptadn/photoshot](https://github.com/baptadn/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
+- [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS.
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
@@ -1517,6 +1517,7 @@
 
 ## javascript 
 
+- [simonhaenisch/prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports) - Make Prettier organize your imports using the TypeScript language service API.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [line/line-bot-sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs) - LINE Messaging API SDK for Node.js
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
@@ -2096,7 +2097,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [baptadn/photoshot](https://github.com/baptadn/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
+- [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -3298,7 +3299,7 @@
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [mui/toolpad](https://github.com/mui/toolpad) - Toolpad: Full stack components and low-code builder for dashboards and internal apps.
-- [baptadn/photoshot](https://github.com/baptadn/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
+- [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [alvarotrigo/react-fullpage](https://github.com/alvarotrigo/react-fullpage) - Official React.js wrapper for fullPage.js https://alvarotrigo.com/react-fullpage/
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
@@ -3527,7 +3528,7 @@
 
 ## stable-diffusion 
 
-- [baptadn/photoshot](https://github.com/baptadn/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
+- [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 
 ## statistics 
 
@@ -3734,7 +3735,7 @@
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [platformio/platformio-atom-ide-terminal](https://github.com/platformio/platformio-atom-ide-terminal) - A terminal package for Atom, complete with themes, API and more for PlatformIO IDE
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -3784,6 +3785,7 @@
 
 ## typescript 
 
+- [simonhaenisch/prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports) - Make Prettier organize your imports using the TypeScript language service API.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [line/line-bot-sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs) - LINE Messaging API SDK for Node.js
@@ -3800,7 +3802,7 @@
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [mui/toolpad](https://github.com/mui/toolpad) - Toolpad: Full stack components and low-code builder for dashboards and internal apps.
-- [baptadn/photoshot](https://github.com/baptadn/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
+- [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -3900,6 +3902,7 @@
 
 ## vue 
 
+- [simonhaenisch/prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports) - Make Prettier organize your imports using the TypeScript language service API.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
