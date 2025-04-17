@@ -922,7 +922,6 @@
 - [jamesflorentino/nanoScrollerJS](https://github.com/jamesflorentino/nanoScrollerJS) - A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars.
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
 - [sindresorhus/gulp-ruby-sass](https://github.com/sindresorhus/gulp-ruby-sass) - Compile Sass to CSS with Ruby Sass
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [malsup/cycle](https://github.com/malsup/cycle) - jQuery Cycle Plugin - Slideshow goodness
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
@@ -951,6 +950,7 @@
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Markdown 
 
