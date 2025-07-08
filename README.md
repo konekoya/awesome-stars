@@ -466,7 +466,7 @@
 - [expressjs/multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`.
 - [jeffbski/wait-on](https://github.com/jeffbski/wait-on) - wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
 - [michaelleeallen/mocha-junit-reporter](https://github.com/michaelleeallen/mocha-junit-reporter) - A JUnit XML reporter for mocha.
-- [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+- [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [jaredhanson/connect-flash](https://github.com/jaredhanson/connect-flash) - Flash message middleware for Connect and Express.
 - [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the &lt;html&gt; noise.
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
@@ -858,7 +858,7 @@
 - [stoyan/reactbook](https://github.com/stoyan/reactbook) - files accompanying the book "React: Up and Running"
 - [vasanthk/react-es6-webpack-boilerplate](https://github.com/vasanthk/react-es6-webpack-boilerplate) - Lightweight boilerplate for React with ES6 (Babel) and Hot reloader using Webpack.
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-- [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+- [forwardemail/superagent](https://github.com/forwardemail/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [ruanyf/react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
