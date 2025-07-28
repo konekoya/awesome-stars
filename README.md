@@ -589,7 +589,6 @@
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [kentcdodds/glamorous-website](https://github.com/kentcdodds/glamorous-website) - This is still a work in progress
 - [ayojs/ayo](https://github.com/ayojs/ayo) - A fork of Node.js. Humans before technology.
-- [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [rizowski/eslint-watch](https://github.com/rizowski/eslint-watch) - ESLint with simple watching capabilities
 - [jackyoh/webpack-react-practice](https://github.com/jackyoh/webpack-react-practice) - Test webpack and react
 - [blueimp/JavaScript-Canvas-to-Blob](https://github.com/blueimp/JavaScript-Canvas-to-Blob) - JavaScript Canvas to Blob is a function to convert canvas elements into Blob objects.
@@ -974,7 +973,7 @@
 - [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
 - [zacwest/ZSWTappableLabel](https://github.com/zacwest/ZSWTappableLabel) - UILabel subclass for links which are tappable, long-pressable, 3D Touchable, and VoiceOverable.
 - [SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS
 - [MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
 - [PureLayout/PureLayout](https://github.com/PureLayout/PureLayout) - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
 - [openid/AppAuth-iOS](https://github.com/openid/AppAuth-iOS) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.
@@ -1652,6 +1651,7 @@
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [74th/vscode-vim](https://github.com/74th/vscode-vim) - vim emulator for Visual Studio Code
+- [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [dkundel/vscode-new-file](https://github.com/dkundel/vscode-new-file) - 📄  'Advanced New File' extension for Visual Studio Code
 - [microsoft/vscode-sublime-keybindings](https://github.com/microsoft/vscode-sublime-keybindings) - Sublime Text Keymap extension for VS Code
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
