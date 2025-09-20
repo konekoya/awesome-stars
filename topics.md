@@ -2623,7 +2623,7 @@
 - [krasimir/kuker](https://github.com/krasimir/kuker) - Kick-ass browser extension to debug your apps
 - [swyxio/awesome-dev-podcasts](https://github.com/swyxio/awesome-dev-podcasts) - a curated list of awesome dev podcasts and why they are awesome
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [kenperkins/winston-papertrail](https://github.com/kenperkins/winston-papertrail) - Papertrail transport for Winston
