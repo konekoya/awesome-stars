@@ -527,7 +527,7 @@
 - [testdouble/testdouble.js](https://github.com/testdouble/testdouble.js) - A minimal test double library for TDD with JavaScript
 - [seeden/react-google-publisher-tag](https://github.com/seeden/react-google-publisher-tag) - Adsense via Google publisher tag for universal applications
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
-- [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - Lightweight CSS extraction plugin
+- [webpack/mini-css-extract-plugin](https://github.com/webpack/mini-css-extract-plugin) - Lightweight CSS extraction plugin
 - [jaredhanson/passport-facebook](https://github.com/jaredhanson/passport-facebook) - Facebook authentication strategy for Passport and Node.js.
 - [abdalla/react-hotjar](https://github.com/abdalla/react-hotjar) - Small component to implement Hotjar into your react application
 - [octref/polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
@@ -548,7 +548,7 @@
 - [faceyspacey/react-universal-component](https://github.com/faceyspacey/react-universal-component) - 🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting
 - [MCS-Lite/mcs-lite](https://github.com/MCS-Lite/mcs-lite) - 🎛  MCS Lite Common UI and Websites.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
-- [webpack-contrib/css-loader](https://github.com/webpack-contrib/css-loader) - CSS Loader
+- [webpack/css-loader](https://github.com/webpack/css-loader) - CSS Loader
 - [hudochenkov/postcss-sorting](https://github.com/hudochenkov/postcss-sorting) - PostCSS plugin to keep rules and at-rules content in order.
 - [liady/webpack-node-externals](https://github.com/liady/webpack-node-externals) - Easily exclude node modules in Webpack
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
