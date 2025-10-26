@@ -2398,6 +2398,7 @@
 
 ## others 
 
+- [btholt/complete-intro-to-sql](https://github.com/btholt/complete-intro-to-sql) - The Complete Intro to Postgres, as taught by Brian Holt for Frontend Masters
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [skills-dev/hello-github-actions](https://github.com/skills-dev/hello-github-actions) - Create and run a GitHub Actions workflow.
@@ -4158,7 +4159,7 @@
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 - [reactGo/reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
 - [webpack-china/awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - [印记中文](https://docschina.org/) - webpack 优秀中文文章
-- [webpack-contrib/webpack-hot-middleware](https://github.com/webpack-contrib/webpack-hot-middleware) - Webpack hot reloading you can attach to your own server
+- [webpack/webpack-hot-middleware](https://github.com/webpack/webpack-hot-middleware) - Webpack hot reloading you can attach to your own server
 - [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) - File Loader
 - [webpack-contrib/uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin) - [deprecated] UglifyJS Plugin
 - [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "Classic React" course
