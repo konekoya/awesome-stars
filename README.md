@@ -273,6 +273,7 @@
 
 ## JavaScript 
 
+- [btholt/complete-intro-to-sql](https://github.com/btholt/complete-intro-to-sql) - The Complete Intro to Postgres, as taught by Brian Holt for Frontend Masters
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
 - [simonhaenisch/prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports) - Make Prettier organize your imports using the TypeScript language service API.
@@ -668,7 +669,7 @@
 - [coryhouse/ps-react](https://github.com/coryhouse/ps-react) - Reusable React components built in "Creating Reusable React Components" on Pluralsight
 - [dvajs/dva](https://github.com/dvajs/dva) - 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
-- [webpack-contrib/webpack-hot-middleware](https://github.com/webpack-contrib/webpack-hot-middleware) - Webpack hot reloading you can attach to your own server
+- [webpack/webpack-hot-middleware](https://github.com/webpack/webpack-hot-middleware) - Webpack hot reloading you can attach to your own server
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [prettier/prettier-atom](https://github.com/prettier/prettier-atom) - An atom package for the prettier formatter.
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
