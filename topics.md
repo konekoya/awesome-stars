@@ -105,6 +105,7 @@
 - [google](#google)
 - [gradle](#gradle)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -1261,6 +1262,12 @@
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [kdchang/reactjs101](https://github.com/kdchang/reactjs101) - 從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 React.js 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。
+
+## gui 
+
+- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
+- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+- [anthonydugois/polynom](https://github.com/anthonydugois/polynom) - Generate SVG paths easily directly in your browser.
 
 ## hacking 
 
@@ -2739,7 +2746,6 @@
 - [humanwhocodes/computer-science-in-javascript](https://github.com/humanwhocodes/computer-science-in-javascript) - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
 - [DefinitelyTyped/tsd](https://github.com/DefinitelyTyped/tsd) - [DEPRECATED] TypeScript Definition manager for DefinitelyTyped
 - [wilsonpage/fastdom](https://github.com/wilsonpage/fastdom) - Eliminates layout thrashing by batching DOM measurement and mutation tasks
-- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [avanslaars/react-todo-cypress](https://github.com/avanslaars/react-todo-cypress) - 
 - [pyrsmk/qwest](https://github.com/pyrsmk/qwest) - Ajax library with XHR2, promises and request limit
