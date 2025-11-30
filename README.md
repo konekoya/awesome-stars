@@ -485,7 +485,7 @@
 - [evilsoft/crocks](https://github.com/evilsoft/crocks) - A collection of well known Algebraic Data Types for your utter enjoyment.
 - [cantierecreativo/redux-bees](https://github.com/cantierecreativo/redux-bees) - A nice, short and declarative way to interact with JSON APIs
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
-- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - （播放量 457 万）计算机速成课 （完整 40集）
+- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 486 万） （共40集）
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 - [wheresrhys/fetch-mock](https://github.com/wheresrhys/fetch-mock) - Mock http requests made using fetch
