@@ -1793,7 +1793,6 @@
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 - [reactGo/reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [seeden/react-facebook](https://github.com/seeden/react-facebook) - Skip the Facebook SDK boilerplate. Drop-in React components for social login, sharing, analytics with full TypeScript and hooks support.
 - [expressjs/session](https://github.com/expressjs/session) - Simple session middleware for Express
