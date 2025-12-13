@@ -223,7 +223,6 @@
 - [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [bricewilson/TypeScript-Getting-Started](https://github.com/bricewilson/TypeScript-Getting-Started) - Official repo for the "TypeScript: Getting Started" course on Pluralsight.
 - [vatz88/jointjs-minimap-example](https://github.com/vatz88/jointjs-minimap-example) - Example on how to build minimap / navigator in JointJS
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
@@ -944,7 +943,7 @@
 
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2025)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -1546,6 +1545,7 @@
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
