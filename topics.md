@@ -3712,7 +3712,7 @@
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [pedrommcarrasco/Hover](https://github.com/pedrommcarrasco/Hover) - 🎈 The smartest floating button
 - [aheze/Multiliner](https://github.com/aheze/Multiliner) - An Xcode source extension to expand lengthy lines.
-- [ruiaureliano/X-SwiftFormat](https://github.com/ruiaureliano/X-SwiftFormat) - X-SwiftFormat extension for Xcode
+- [ruiaureliano/x-swiftformat](https://github.com/ruiaureliano/x-swiftformat) - X-SwiftFormat extension for Xcode
 - [Swinject/Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
 - [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 - [Orderella/PopupDialog](https://github.com/Orderella/PopupDialog) - A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertController alert style.
@@ -4252,7 +4252,7 @@
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [DerLobi/XcoatOfPaint](https://github.com/DerLobi/XcoatOfPaint) - Replace your Xcode icon with colorful variants
 - [ivanvorobei/SPIndicator](https://github.com/ivanvorobei/SPIndicator) - Floating indicator, mimicrate to indicator which appear when silent mode switched. Can be present from top and bottom. Interactive with gesters.
-- [ruiaureliano/X-SwiftFormat](https://github.com/ruiaureliano/X-SwiftFormat) - X-SwiftFormat extension for Xcode
+- [ruiaureliano/x-swiftformat](https://github.com/ruiaureliano/x-swiftformat) - X-SwiftFormat extension for Xcode
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
 - [ivanvorobei/SPConfetti](https://github.com/ivanvorobei/SPConfetti) - Show the confetti only when the user is having fun, and if not having fun, don't show it.
