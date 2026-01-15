@@ -272,6 +272,7 @@
 
 ## JavaScript 
 
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [firtman/adv-webperf](https://github.com/firtman/adv-webperf) - 
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [btholt/complete-intro-to-sql](https://github.com/btholt/complete-intro-to-sql) - The Complete Intro to Postgres, as taught by Brian Holt for Frontend Masters
@@ -1439,6 +1440,8 @@
 
 ## TypeScript 
 
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [JonasKruckenberg/imagetools](https://github.com/JonasKruckenberg/imagetools) - Load and transform images using a toolbox :toolbox: of custom import directives!
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
