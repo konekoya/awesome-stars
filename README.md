@@ -271,6 +271,7 @@
 
 ## JavaScript 
 
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [firtman/adv-webperf](https://github.com/firtman/adv-webperf) - 
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
