@@ -2471,6 +2471,7 @@
 
 ## others 
 
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [firtman/adv-webperf](https://github.com/firtman/adv-webperf) - 
 - [kylan02/face_looker](https://github.com/kylan02/face_looker) - Generate AI-powered gaze-tracking face images and create interactive React components that follow the cursor.
