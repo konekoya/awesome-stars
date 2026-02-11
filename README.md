@@ -369,7 +369,6 @@
 - [dsternlicht/react-dynamic-charts](https://github.com/dsternlicht/react-dynamic-charts) - A React library for creating animated charts visualizations based on dynamic data.
 - [react-grid-layout/react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
 - [http-party/node-portfinder](https://github.com/http-party/node-portfinder) - A simple tool to find an open port or domain socket on the current machine
-- [cypress-io/code-coverage](https://github.com/cypress-io/code-coverage) - Saves the code coverage collected during Cypress tests
 - [NoriSte/cypress-wait-until](https://github.com/NoriSte/cypress-wait-until) - Add the Cypress waiting power to virtually everything 🎉
 - [abramenal/cypress-file-upload](https://github.com/abramenal/cypress-file-upload) - File upload testing made easy
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
@@ -1583,6 +1582,7 @@
 - [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [jest-community/eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest) - ESLint plugin for Jest
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [cypress-io/code-coverage](https://github.com/cypress-io/code-coverage) - Saves the code coverage collected during Cypress tests
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
