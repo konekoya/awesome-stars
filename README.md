@@ -579,6 +579,7 @@
 - [ant-design/ant-ux](https://github.com/ant-design/ant-ux) - :guitar: A sitemap template for ux design
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [codealchemist/hyper-transparent](https://github.com/codealchemist/hyper-transparent) - Hyper plugin to easily set window transparency.
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [flow-typed/flow-typed](https://github.com/flow-typed/flow-typed) - A central repository for Flow library definitions
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
@@ -1655,7 +1656,6 @@
 - [nefe/number-precision](https://github.com/nefe/number-precision) - 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
-- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Small avatar & profile picture component. Resize and crop uploaded images using a intuitive user interface.
 - [tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) - Offical TinyMCE React component
