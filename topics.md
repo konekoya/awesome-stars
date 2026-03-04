@@ -84,6 +84,7 @@
 - [eslint](#eslint)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -1090,6 +1091,10 @@
 - [jaredhanson/passport-facebook](https://github.com/jaredhanson/passport-facebook) - Facebook authentication strategy for Passport and Node.js.
 - [seeden/react-facebook](https://github.com/seeden/react-facebook) - Skip the Facebook SDK boilerplate. Drop-in React components for social login, sharing, analytics with full TypeScript and hooks support.
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
+
+## fastapi 
+
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## finance 
 
