@@ -729,7 +729,7 @@
 - [mjackson/http-client](https://github.com/mjackson/http-client) - Compose HTTP clients using JavaScript's fetch API
 - [washwashsleep/TaiwanReservoirAPI](https://github.com/washwashsleep/TaiwanReservoirAPI) - 台灣水庫狀態資訊 API
 - [reactjs/react-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "Classic React" course
 - [erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
