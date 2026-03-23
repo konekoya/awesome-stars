@@ -431,7 +431,7 @@
 - [jaredpalmer/awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
 - [reyronald/awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
@@ -811,7 +811,7 @@
 - [raphaelfabeni/css-loader](https://github.com/raphaelfabeni/css-loader) - Simple loaders for your web applications using only one div and pure CSS :heart:
 - [threepointone/glam](https://github.com/threepointone/glam) - crazy good css in your js
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 - [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple and Minimal Line Icons
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -3203,7 +3203,7 @@
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [sindresorhus/editorconfig-sublime](https://github.com/sindresorhus/editorconfig-sublime) - Sublime Text plugin for EditorConfig - Helps developers maintain consistent coding styles between different editors
@@ -3425,7 +3425,7 @@
 - [dominictobias/react-image-crop](https://github.com/dominictobias/react-image-crop) - A responsive image cropping tool for React
 - [LogRocket/redux-logger](https://github.com/LogRocket/redux-logger) - Logger for Redux
 - [davidkpiano/react-redux-form](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux.
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [moroshko/react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [mohebifar/grafgiti](https://github.com/mohebifar/grafgiti) - Vandalize your github contributions wall.
