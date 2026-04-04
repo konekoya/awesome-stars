@@ -3001,6 +3001,7 @@
 - [jamiebuilds/favorite-software](https://github.com/jamiebuilds/favorite-software) - :star2: Best software for developers and power users.
 - [jamiebuilds/spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide) - :metal: Present code with style
 - [mdo/ama](https://github.com/mdo/ama) - Ask @mdo anything!
+- [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
 - [trulia/hologram](https://github.com/trulia/hologram) - A markdown based documentation system for style guides.
 - [pattern-lab/patternlab-php](https://github.com/pattern-lab/patternlab-php) - The PHP version of Pattern Lab
@@ -4241,7 +4242,6 @@
 ## web-components 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 
 ## web-development 
 
