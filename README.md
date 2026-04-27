@@ -1258,7 +1258,7 @@
 ## Shell 
 
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Agent Skills for real engineers. Straight from my .claude directory.
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -1312,7 +1312,7 @@
 - [Friend-LGA/LGSideMenuController](https://github.com/Friend-LGA/LGSideMenuController) - iOS view controller which manages left and right side views
 - [aheze/Multiliner](https://github.com/aheze/Multiliner) - An Xcode source extension to expand lengthy lines.
 - [ruiaureliano/x-swiftformat](https://github.com/ruiaureliano/x-swiftformat) - X-SwiftFormat extension for Xcode
-- [hmlongco/Resolver](https://github.com/hmlongco/Resolver) - Swift Ultralight Dependency Injection / Service Locator framework
+- [hmlongco/Resolver](https://github.com/hmlongco/Resolver) - Swift Dependency Injection / Service Locator framework (Deprecated)
 - [Swinject/Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
 - [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 - [robb/Cartography](https://github.com/robb/Cartography) - A declarative Auto Layout DSL for Swift :iphone::triangular_ruler:
