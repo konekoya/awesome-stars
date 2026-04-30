@@ -789,7 +789,7 @@
 - [nodesecurity/nsp](https://github.com/nodesecurity/nsp) - node security platform command-line tool
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [sindresorhus/atom-editorconfig](https://github.com/sindresorhus/atom-editorconfig) - Helps developers maintain consistent coding styles between different editors
-- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
+- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [stoyan/craft](https://github.com/stoyan/craft) - Create React App From Template
