@@ -1878,7 +1878,7 @@
 - [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
-- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
+- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
