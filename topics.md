@@ -2820,7 +2820,6 @@
 - [susielu/d3-legend](https://github.com/susielu/d3-legend) - A reusable d3 legend component.
 - [nodejs-tw/ama](https://github.com/nodejs-tw/ama) - Ask me anything!
 - [bripkens/connect-history-api-fallback](https://github.com/bripkens/connect-history-api-fallback) - Fallback to index.html for applications that are using the HTML 5 history API
-- [walmartlabs/react-ssr-optimization](https://github.com/walmartlabs/react-ssr-optimization) - React.js server-side rendering optimization with component memoization and templatization
 - [jscomplete/advanced-react](https://github.com/jscomplete/advanced-react) - For help, ask in #questions at slack.jscomplete.com http://slack.jscomplete.com/
 - [markdalgleish/static-site-generator-webpack-plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin) - Minimal, unopinionated static site generator powered by webpack
 - [facebookarchive/flux](https://github.com/facebookarchive/flux) - Application Architecture for Building User Interfaces
