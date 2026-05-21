@@ -608,7 +608,6 @@
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [michalkvasnicak/babel-plugin-css-modules-transform](https://github.com/michalkvasnicak/babel-plugin-css-modules-transform) - Extract css class names from required css module files, so we can render it on server.
 - [expressjs/session](https://github.com/expressjs/session) - Simple session middleware for Express
-- [walmartlabs/react-ssr-optimization](https://github.com/walmartlabs/react-ssr-optimization) - React.js server-side rendering optimization with component memoization and templatization
 - [mjrussell/redux-auth-wrapper](https://github.com/mjrussell/redux-auth-wrapper) - A React Higher Order Component (HOC) for handling Authentication and Authorization with Routing and Redux
 - [jscomplete/advanced-react](https://github.com/jscomplete/advanced-react) - For help, ask in #questions at slack.jscomplete.com http://slack.jscomplete.com/
 - [markdalgleish/static-site-generator-webpack-plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin) - Minimal, unopinionated static site generator powered by webpack
