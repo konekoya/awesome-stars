@@ -1496,7 +1496,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [ajzbc/kanye.rest](https://github.com/ajzbc/kanye.rest) - 🌊 A free REST API for random Kanye West quotes (Kanye as a Service)
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
