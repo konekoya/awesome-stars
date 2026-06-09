@@ -1215,7 +1215,7 @@
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [sds/scss-lint](https://github.com/sds/scss-lint) - Configurable tool for writing clean, consistent SCSS
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
 - [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
 - [trulia/hologram](https://github.com/trulia/hologram) - A markdown based documentation system for style guides.
