@@ -100,7 +100,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
+- [react/yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
@@ -109,7 +109,7 @@
 - [sass/libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -788,7 +788,7 @@
 - [sindresorhus/atom-editorconfig](https://github.com/sindresorhus/atom-editorconfig) - Helps developers maintain consistent coding styles between different editors
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [stoyan/craft](https://github.com/stoyan/craft) - Create React App From Template
 - [joemaddalone/ReactSublimeSnippets](https://github.com/joemaddalone/ReactSublimeSnippets) - Joe Maddalone's React Snippets
 - [twreporter/twreporter-react](https://github.com/twreporter/twreporter-react) - twreporter site with nodejs
