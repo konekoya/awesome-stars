@@ -294,7 +294,6 @@
 - [konekoya/jointjs-with-cra](https://github.com/konekoya/jointjs-with-cra) - 
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
-- [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [konekoya/gignore-cli](https://github.com/konekoya/gignore-cli) - 
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
