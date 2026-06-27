@@ -2942,7 +2942,7 @@
 - [nodesecurity/nsp](https://github.com/nodesecurity/nsp) - node security platform command-line tool
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 - [sindresorhus/atom-editorconfig](https://github.com/sindresorhus/atom-editorconfig) - Helps developers maintain consistent coding styles between different editors
-- [react-component/steps](https://github.com/react-component/steps) - React Steps
+- [react-component/steps](https://github.com/react-component/steps) - 🚶 Step workflow component for React
 - [stoyan/craft](https://github.com/stoyan/craft) - Create React App From Template
 - [joemaddalone/ReactSublimeSnippets](https://github.com/joemaddalone/ReactSublimeSnippets) - Joe Maddalone's React Snippets
 - [qimingweng/react-modal-dialog](https://github.com/qimingweng/react-modal-dialog) - A modal dialog for ReactJS
