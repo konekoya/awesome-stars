@@ -810,7 +810,7 @@
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [AllenFang/vue2-component-boilerplate](https://github.com/AllenFang/vue2-component-boilerplate) - A simple and minimal boilerplate for creating a vue component
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
