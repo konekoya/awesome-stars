@@ -771,6 +771,7 @@
 - [Keyamoon/svgxuse](https://github.com/Keyamoon/svgxuse) - A simple polyfill that fetches external SVGs referenced in use elements when the browser itself fails to do so. Demo: https://icomoon.io/svgxuse-demo/
 - [developit/unfetch](https://github.com/developit/unfetch) - 🐕 Bare minimum 500b fetch polyfill.
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
+- [svg/svgo-gui](https://github.com/svg/svgo-gui) - Node-WebKit based GUI for SVGO
 - [coryhouse/javascript-development-environment](https://github.com/coryhouse/javascript-development-environment) - JavaScript development environment discussed in "Building a JavaScript Development Environment" on Pluralsight
 - [reactjs/react-router-tutorial](https://github.com/reactjs/react-router-tutorial) - 
 - [csscomb/csscomb.js](https://github.com/csscomb/csscomb.js) - CSS coding style formatter
@@ -809,6 +810,7 @@
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [AllenFang/vue2-component-boilerplate](https://github.com/AllenFang/vue2-component-boilerplate) - A simple and minimal boilerplate for creating a vue component
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
