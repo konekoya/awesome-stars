@@ -335,7 +335,7 @@
 ## analytics 
 
 - [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
@@ -1405,7 +1405,6 @@
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Archived web app of Mattermost. Moved to the monorepo: https://github.com/mattermost/mattermost
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [danilowoz/create-content-loader](https://github.com/danilowoz/create-content-loader) - ✏️ Tool to create your own react-content-loader easily.
@@ -2609,7 +2608,6 @@
 - [swiftlang/swift-corelibs-xctest](https://github.com/swiftlang/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software & Books
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [microlinkhq/youtube-dl-exec](https://github.com/microlinkhq/youtube-dl-exec) - A simple Node.js wrapper for youtube-dl/yt-dlp.
 - [burczyk/XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets) - Swift 4 code snippets for Xcode
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [lexrus/LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - [EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift.
@@ -3769,7 +3767,7 @@
 ## statistics 
 
 - [harshjv/github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 
 ## storybook 
 
@@ -4175,6 +4173,7 @@
 
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+- [microlinkhq/youtube-dl-exec](https://github.com/microlinkhq/youtube-dl-exec) - Promise-friendly Node.js wrapper around youtube-dl / yt-dlp for downloading media.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## vim 
