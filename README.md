@@ -1047,7 +1047,7 @@
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 - [benmvp/frontend-confs](https://github.com/benmvp/frontend-confs) - Frontend Conferences for Speaking
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [mathsigit/blog_page](https://github.com/mathsigit/blog_page) - This is a REPO of html blog.
 - [jscomplete/learn-fullstack-javascript](https://github.com/jscomplete/learn-fullstack-javascript) - For help, ask in #questions at jscomplete.com/help
