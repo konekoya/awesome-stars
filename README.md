@@ -201,7 +201,7 @@
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -275,6 +275,7 @@
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [firtman/adv-webperf](https://github.com/firtman/adv-webperf) - 
 - [btholt/complete-intro-to-sql](https://github.com/btholt/complete-intro-to-sql) - The Complete Intro to Postgres, as taught by Brian Holt for Frontend Masters
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
 - [simonhaenisch/prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports) - Make Prettier organize your imports using the TypeScript language service API.
 - [bcomnes/npm-run-all2](https://github.com/bcomnes/npm-run-all2) - A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)
@@ -1117,7 +1118,6 @@
 ## Python 
 
 - [kylan02/face_looker](https://github.com/kylan02/face_looker) - Generate AI-powered gaze-tracking face images and create interactive React components that follow the cursor.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
