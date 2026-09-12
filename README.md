@@ -208,6 +208,7 @@
 ## Groovy 
 
 - [fizzed/font-mfizz](https://github.com/fizzed/font-mfizz) - Font Mfizz - Vector Icons for Technology and Software Geeks
+- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 
 ## HTML 
@@ -267,7 +268,6 @@
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
-- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [SparkMonitor/varOne](https://github.com/SparkMonitor/varOne) - Apache Spark Web Monitor Tool, varOne
 
