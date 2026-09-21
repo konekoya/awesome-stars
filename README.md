@@ -1309,7 +1309,7 @@
 - [evdmello/SideMenu](https://github.com/evdmello/SideMenu) - SideMenu using UIKit
 - [pedrommcarrasco/Hover](https://github.com/pedrommcarrasco/Hover) - 🎈 The smartest floating button
 - [yoavlt/LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state
-- [friend-lga/LGSideMenuController](https://github.com/friend-lga/LGSideMenuController) - iOS view controller which manages left and right side views
+- [LGLibs/LGSideMenuController](https://github.com/LGLibs/LGSideMenuController) - iOS view controller which manages left and right side views
 - [aheze/Multiliner](https://github.com/aheze/Multiliner) - An Xcode source extension to expand lengthy lines.
 - [ruiaureliano/x-swiftformat](https://github.com/ruiaureliano/x-swiftformat) - X-SwiftFormat extension for Xcode
 - [hmlongco/Resolver](https://github.com/hmlongco/Resolver) - Swift Dependency Injection / Service Locator framework (Deprecated)
