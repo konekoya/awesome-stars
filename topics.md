@@ -2917,7 +2917,7 @@
 - [erm0l0v/webpack-md5-hash](https://github.com/erm0l0v/webpack-md5-hash) - Plugin to replace a standard webpack chunkhash with md5.
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [jantimon/favicons-webpack-plugin](https://github.com/jantimon/favicons-webpack-plugin) - Let webpack generate all your favicons and icons for you
-- [kangax/html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support)
+- [kangax/html-minifier](https://github.com/kangax/html-minifier) - The original html-minifier (2010–2019). No longer maintained; succeeded by HTML Minifier Next.
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
 - [react-bootstrap/react-router-bootstrap](https://github.com/react-bootstrap/react-router-bootstrap) - Integration between React Router and React-Bootstrap
@@ -3998,7 +3998,7 @@
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [platformio/platformio-atom-ide-terminal](https://github.com/platformio/platformio-atom-ide-terminal) - A terminal package for Atom, complete with themes, API and more for PlatformIO IDE
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
