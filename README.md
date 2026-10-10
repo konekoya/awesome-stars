@@ -1270,7 +1270,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
@@ -1501,7 +1501,7 @@
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
