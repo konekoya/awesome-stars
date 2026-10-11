@@ -37,6 +37,7 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [Python](#python)
+- [ReScript](#rescript)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -952,7 +953,6 @@
 
 ## OCaml 
 
-- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 
 ## Objective-C 
@@ -1191,6 +1191,10 @@
 - [SublimeCodeIntel/SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text
 - [arvi/Agila-Theme](https://github.com/arvi/Agila-Theme) - A Sublime Text 3 UI Theme
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+## ReScript 
+
+- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Rich Text Format 
 
