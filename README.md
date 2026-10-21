@@ -712,7 +712,6 @@
 - [react-bootstrap/react-router-bootstrap](https://github.com/react-bootstrap/react-router-bootstrap) - Integration between React Router and React-Bootstrap
 - [STRML/react-router-component](https://github.com/STRML/react-router-component) - Declarative router component for React.
 - [reactjs/react-tabs](https://github.com/reactjs/react-tabs) - An accessible and easy tab component for ReactJS.
-- [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
 - [threepointone/glam](https://github.com/threepointone/glam) - crazy good css in your js
 - [ElmCast/elm-oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files.
 - [chaijs/chai-jquery](https://github.com/chaijs/chai-jquery) - jQuery assertions for chai
@@ -1686,6 +1685,7 @@
 - [react-bootstrap/react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [router5/router5](https://github.com/router5/router5) - Flexible and powerful universal routing solution
+- [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [react-component/pagination](https://github.com/react-component/pagination) - 📄 React pagination primitives for page navigation, size changing, quick jumping, and locale-aware controls.
